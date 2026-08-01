@@ -160,7 +160,7 @@ Mini AVI is a compact, borderless player with a completely custom bitmap-based i
 | Play, pause and stop | MCI `Play`, `Pause` and `Stop` commands |
 | Seeking | Position measured in milliseconds, controlled by a custom draggable bar |
 | Duration | Queried in both frames and milliseconds |
-| Volume | User scale 0-100, converted to the MCI scale 0–1000 |
+| Volume | User scale 0-100, converted to the MCI scale 0-1000 |
 | Window size | 50% to 300%, in 25% increments |
 | Full screen | MCI `Play ... fullscreen` mode |
 | Startup sources | File dialog, command-line filename or `MiniAVI.khz` |
