@@ -1,0 +1,13 @@
+Mini AVI - modernized source
+
+Implemented changes:
+- Direct startup in the MiniAVI form; Intro.frm and MiniAVI.khz are no longer used.
+- Per-user AVI registration for the current compiled executable.
+- Initial placement in the bottom-right Windows work area, while retaining drag movement.
+- About control replaced by a simple message box.
+- Clicking the MCI movie window toggles pause/resume.
+- Command-line AVI paths are opened directly, including paths containing spaces.
+
+Build target: Visual Basic 6.0, output Mini_AVI.exe.
+
+Windows 8/10/11 protect the user's default-app choice. The program registers itself as an AVI handler and writes the classic per-user association, but an existing protected Windows default may still require one manual selection in Default Apps / Open with.
