@@ -1,0 +1,80 @@
+Sursa (.frm),Formular,Tip control,Nume control,Proprietate,Fisier .frx,Offset (hex)
+Paul-Media Q/Despre.frm,Despre,Form,Despre,Icon,Despre.frx,0000
+Paul-Media Q/Despre.frm,Despre,Form,Despre,Picture,Despre.frx,2982
+Paul-Media Q/Despre.frm,Despre,Image,Image2,Picture,Despre.frx,6E2E
+Paul-Media Q/Despre.frm,Despre,Image,Iesire,MouseIcon,Despre.frx,81FD
+Paul-Media Q/Despre.frm,Despre,Image,Iesire,Picture,Despre.frx,8AC7
+Paul-Media Q/Intro.frm,Intro,Form,Intro,Icon,Intro.frx,0000
+Paul-Media Q/Intro.frm,Intro,Form,Intro,Picture,Intro.frx,2982
+Paul-Media Q/Fereastra-Centrala.frm,Fereastra-Centrala,Form,MiniAVI,Icon,Fereastra-Centrala.frx,0000
+Paul-Media Q/Fereastra-Centrala.frm,Fereastra-Centrala,Form,MiniAVI,Picture,Fereastra-Centrala.frx,2982
+Paul-Media Q/Fereastra-Centrala.frm,Fereastra-Centrala,PictureBox,SunetZero4,Picture,Fereastra-Centrala.frx,AAD4
+Paul-Media Q/Fereastra-Centrala.frm,Fereastra-Centrala,PictureBox,SunetZero3,Picture,Fereastra-Centrala.frx,B7DA
+Paul-Media Q/Fereastra-Centrala.frm,Fereastra-Centrala,PictureBox,SunetZero2,Picture,Fereastra-Centrala.frx,C4E0
+Paul-Media Q/Fereastra-Centrala.frm,Fereastra-Centrala,PictureBox,SunetZero1,Picture,Fereastra-Centrala.frx,D1E6
+Paul-Media Q/Fereastra-Centrala.frm,Fereastra-Centrala,PictureBox,Misca0,Picture,Fereastra-Centrala.frx,DEEC
+Paul-Media Q/Fereastra-Centrala.frm,Fereastra-Centrala,PictureBox,picSeek,Picture,Fereastra-Centrala.frx,E17A
+Paul-Media Q/Fereastra-Centrala.frm,Fereastra-Centrala,PictureBox,volorig,Picture,Fereastra-Centrala.frx,EA74
+Paul-Media Q/Fereastra-Centrala.frm,Fereastra-Centrala,PictureBox,voldisp,Picture,Fereastra-Centrala.frx,F77A
+Paul-Media Q/Fereastra-Centrala.frm,Fereastra-Centrala,Image,LEDSub0,Picture,Fereastra-Centrala.frx,10480
+Paul-Media Q/Fereastra-Centrala.frm,Fereastra-Centrala,Image,LEDSub2,Picture,Fereastra-Centrala.frx,10696
+Paul-Media Q/Fereastra-Centrala.frm,Fereastra-Centrala,Image,LEDSub1,Picture,Fereastra-Centrala.frx,108AC
+Paul-Media Q/Fereastra-Centrala.frm,Fereastra-Centrala,Image,NivelDaNu,Picture,Fereastra-Centrala.frx,10AC2
+Paul-Media Q/Fereastra-Centrala.frm,Fereastra-Centrala,Image,NivelDaNu1,Picture,Fereastra-Centrala.frx,10BDC
+Paul-Media Q/Fereastra-Centrala.frm,Fereastra-Centrala,Image,NivelDaNu2,Picture,Fereastra-Centrala.frx,10CF6
+Paul-Media Q/Fereastra-Centrala.frm,Fereastra-Centrala,Image,MicroEcran,Picture,Fereastra-Centrala.frx,10E10
+Paul-Media Q/Fereastra-Centrala.frm,Fereastra-Centrala,Image,MicroEcranStop,Picture,Fereastra-Centrala.frx,110FE
+Paul-Media Q/Fereastra-Centrala.frm,Fereastra-Centrala,Image,MicroEcranPauza,Picture,Fereastra-Centrala.frx,113EC
+Paul-Media Q/Fereastra-Centrala.frm,Fereastra-Centrala,Image,MicroEcranPlay,Picture,Fereastra-Centrala.frx,116DA
+Paul-Media Q/Fereastra-Centrala.frm,Fereastra-Centrala,Image,EcranMare,Picture,Fereastra-Centrala.frx,119C8
+Paul-Media Q/Fereastra-Centrala.frm,Fereastra-Centrala,Image,EcranMic,Picture,Fereastra-Centrala.frx,1245A
+Paul-Media Q/Fereastra-Centrala.frm,Fereastra-Centrala,Image,Image2,Picture,Fereastra-Centrala.frx,12EEC
+Paul-Media Q/Fereastra-Centrala.frm,Fereastra-Centrala,Image,Ecran0,Picture,Fereastra-Centrala.frx,1356E
+Paul-Media Q/Fereastra-Centrala.frm,Fereastra-Centrala,Image,misca2,Picture,Fereastra-Centrala.frx,14000
+Paul-Media Q/Fereastra-Centrala.frm,Fereastra-Centrala,Image,misca1,Picture,Fereastra-Centrala.frx,1428E
+Paul-Media Q/Fereastra-Centrala.frm,Fereastra-Centrala,Image,Despre2,Picture,Fereastra-Centrala.frx,1451C
+Paul-Media Q/Fereastra-Centrala.frm,Fereastra-Centrala,Image,Ajutor2,Picture,Fereastra-Centrala.frx,14A26
+Paul-Media Q/Fereastra-Centrala.frm,Fereastra-Centrala,Image,Deschide2,Picture,Fereastra-Centrala.frx,14F30
+Paul-Media Q/Fereastra-Centrala.frm,Fereastra-Centrala,Image,Lampa0,Picture,Fereastra-Centrala.frx,1543A
+Paul-Media Q/Fereastra-Centrala.frm,Fereastra-Centrala,Image,Lampa2,Picture,Fereastra-Centrala.frx,15C80
+Paul-Media Q/Fereastra-Centrala.frm,Fereastra-Centrala,Image,Lampa1,Picture,Fereastra-Centrala.frx,165AA
+Paul-Media Q/Fereastra-Centrala.frm,Fereastra-Centrala,Image,Mic0,Picture,Fereastra-Centrala.frx,16DF0
+Paul-Media Q/Fereastra-Centrala.frm,Fereastra-Centrala,Image,Mic4,Picture,Fereastra-Centrala.frx,1761A
+Paul-Media Q/Fereastra-Centrala.frm,Fereastra-Centrala,Image,Mic3,Picture,Fereastra-Centrala.frx,17E44
+Paul-Media Q/Fereastra-Centrala.frm,Fereastra-Centrala,Image,Mic2,Picture,Fereastra-Centrala.frx,1866E
+Paul-Media Q/Fereastra-Centrala.frm,Fereastra-Centrala,Image,Mic1,Picture,Fereastra-Centrala.frx,18E98
+Paul-Media Q/Fereastra-Centrala.frm,Fereastra-Centrala,Image,MicsorareMarire,Picture,Fereastra-Centrala.frx,196C2
+Paul-Media Q/Fereastra-Centrala.frm,Fereastra-Centrala,Image,MicsorareMarire,Picture,Fereastra-Centrala.frx,19BCC
+Paul-Media Q/Fereastra-Centrala.frm,Fereastra-Centrala,Image,Despre1,Picture,Fereastra-Centrala.frx,1A0D6
+Paul-Media Q/Fereastra-Centrala.frm,Fereastra-Centrala,Image,Despre0,Picture,Fereastra-Centrala.frx,1A5E0
+Paul-Media Q/Fereastra-Centrala.frm,Fereastra-Centrala,Image,Ajutor1,Picture,Fereastra-Centrala.frx,1AAEA
+Paul-Media Q/Fereastra-Centrala.frm,Fereastra-Centrala,Image,Ajutor0,Picture,Fereastra-Centrala.frx,1AFF4
+Paul-Media Q/Fereastra-Centrala.frm,Fereastra-Centrala,Image,Deschide1,Picture,Fereastra-Centrala.frx,1B4FE
+Paul-Media Q/Fereastra-Centrala.frm,Fereastra-Centrala,Image,Deschide0,Picture,Fereastra-Centrala.frx,1BA08
+Paul-Media Q/Fereastra-Centrala.frm,Fereastra-Centrala,Image,ButoaneMicro,Picture,Fereastra-Centrala.frx,1BF12
+Paul-Media Q/Fereastra-Centrala.frm,Fereastra-Centrala,Image,Iesire,Picture,Fereastra-Centrala.frx,1C73C
+Paul-Media Q/Ajutor.frm,Ajutor,Form,Ajutor,Icon,Ajutor.frx,0000
+Paul-Media Q/Ajutor.frm,Ajutor,Image,Image1,Picture,Ajutor.frx,0CCA
+Paul-Media Q/DespreYO.frm,DespreYO,Form,DespreYO,Icon,DespreYO.frx,0000
+Paul-Media Q/DespreYO.frm,DespreYO,Image,Image2,Picture,DespreYO.frx,2982
+Paul-Media Q/DespreYO.frm,DespreYO,Image,Image1,MouseIcon,DespreYO.frx,3D51
+Paul-Media Q/DespreYO.frm,DespreYO,Image,Image1,Picture,DespreYO.frx,461B
+Paul-Media Q/DespreYO.frm,DespreYO,Label,PaulAurelianGagniuc,MouseIcon,DespreYO.frx,623F
+Paul-Media Q/CD Autostart/MiniAVI_AutoStart.frm,MiniAVI_AutoStart,Form,CD_Start,Icon,MiniAVI_AutoStart.frx,0000
+Paul-Media Q/CD Autostart/MiniAVI_AutoStart.frm,MiniAVI_AutoStart,Form,CD_Start,Picture,MiniAVI_AutoStart.frx,08CA
+Paul-Media Q/CD Autostart/MiniAVI_AutoStart.frm,MiniAVI_AutoStart,PictureBox,Bara,Picture,MiniAVI_AutoStart.frx,128E
+Paul-Media Q/CD Autostart/MiniAVI_AutoStart.frm,MiniAVI_AutoStart,CommandButton,despre_eu,Picture,MiniAVI_AutoStart.frx,2205
+Paul-Media Q/CD Autostart/MiniAVI_AutoStart.frm,MiniAVI_AutoStart,PictureBox,Bara_copiere,Picture,MiniAVI_AutoStart.frx,260E
+Paul-Media Q/CD Autostart/MiniAVI_AutoStart.frm,MiniAVI_AutoStart,PictureBox,Bara_indigo,Picture,MiniAVI_AutoStart.frx,3585
+Paul-Media Q/CD Autostart/MiniAVI_AutoStart.frm,MiniAVI_AutoStart,CommandButton,Ajutor,Picture,MiniAVI_AutoStart.frx,44F4
+Paul-Media Q/CD Autostart/MiniAVI_AutoStart.frm,MiniAVI_AutoStart,CommandButton,Impachetare,Picture,MiniAVI_AutoStart.frx,46A0
+Paul-Media Q/CD Autostart/MiniAVI_AutoStart.frm,MiniAVI_AutoStart,Image,Deschide4,Picture,MiniAVI_AutoStart.frx,489A
+Paul-Media Q/CD Autostart/MiniAVI_AutoStart.frm,MiniAVI_AutoStart,Image,Deschide3,Picture,MiniAVI_AutoStart.frx,4B9A
+Paul-Media Q/CD Autostart/MiniAVI_AutoStart.frm,MiniAVI_AutoStart,Image,Deschide2,Picture,MiniAVI_AutoStart.frx,4E9A
+Paul-Media Q/CD Autostart/Ajutor.frm,Ajutor,Form,AjutorQ,Icon,Ajutor.frx,0000
+Paul-Media Q/CD Autostart/Ajutor.frm,Ajutor,Form,AjutorQ,Picture,Ajutor.frx,2982
+Paul-Media Q/CD Autostart/DespreYO.frm,DespreYO,Form,DespreYO,Icon,DespreYO.frx,0000
+Paul-Media Q/CD Autostart/DespreYO.frm,DespreYO,Image,Image2,Picture,DespreYO.frx,2982
+Paul-Media Q/CD Autostart/DespreYO.frm,DespreYO,Image,Image1,MouseIcon,DespreYO.frx,3D51
+Paul-Media Q/CD Autostart/DespreYO.frm,DespreYO,Image,Image1,Picture,DespreYO.frx,461B
+Paul-Media Q/CD Autostart/DespreYO.frm,DespreYO,Label,PaulAurelianGagniuc,MouseIcon,DespreYO.frx,623F
