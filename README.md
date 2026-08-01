@@ -173,9 +173,9 @@ The application-specific extension also kept the configuration visually separate
 
 ## Mini AVI player
 
-Mini AVI is a compact, borderless player with a completely custom bitmap-based interface. The controls, indicators and skins are stored in the accompanying `.frx` resource files rather than being drawn with standard Windows widgets. The interface includes play, pause and stop controls, a seek bar, elapsed and total time, a vertical volume control, mute, percentage-based resizing, full screen, file selection, help and author information.
+<img align="right" src="https://github.com/Gagniuc/Mini-AVI/blob/main/img/intro.png" alt="Original Mini AVI interface guide">
 
-The playback layer is implemented through the Windows Multimedia Control Interface. `Modul-Player.bas` sends textual commands to `winmm.dll` through `mciSendStringA`, using the `MPEGVideo` MCI device for opening and controlling media.
+Mini AVI is a compact, borderless player with a completely custom bitmap-based interface. The controls, indicators and skins are stored in the accompanying `.frx` resource files rather than being drawn with standard Windows widgets. The interface includes play, pause and stop controls, a seek bar, elapsed and total time, a vertical volume control, mute, percentage-based resizing, full screen, file selection, help and author information. The playback layer is implemented through the Windows Multimedia Control Interface. `Modul-Player.bas` sends textual commands to `winmm.dll` through `mciSendStringA`, using the `MPEGVideo` MCI device for opening and controlling media.
 
 | Function | Implementation in the recovered source |
 |---|---|
