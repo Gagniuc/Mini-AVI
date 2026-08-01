@@ -1,9 +1,5 @@
 # Mini AVI & Oglinda
 
-<p align="center">
-  <img src="https://github.com/Gagniuc/Mini-AVI/blob/main/img/gpt%20(III).png" alt="Original Mini AVI interface guide">
-</p>
-
 **Mini AVI** and **Oglinda** form a two-part Visual Basic 6 project created for the way personal movie collections were used in the early 2000s. Mini AVI is the player. Oglinda is the companion mastering tool that prepares a self-contained movie disc around it.
 
 <p align="center">
@@ -310,12 +306,6 @@ When automatic launch is unavailable, the generated disc can still be opened man
 
 Mini AVI and Oglinda document a specific period of personal computing: optical media, AVI collections, system codecs, magazine cover CDs, `AUTORUN.INF`, custom-skinned VB6 interfaces and software distributed together with its runtime. The project is preserved not as a replacement for a modern media player, but as a complete example of how a self-starting movie disc was designed and packaged at the beginning of the 2000s.
 
-## Author
-
-**Paul A. Gagniuc**  
-Original development: 2003–2004  
-PC World România cover-CD publication: 2005
-
-## License
-
-The recovered archive did not contain an explicit open-source license. A license should be added before the source is treated as reusable open-source software.
+<p align="center">
+  <img src="https://github.com/Gagniuc/Mini-AVI/blob/main/img/gpt%20(III).png" alt="Original Mini AVI interface guide">
+</p>
