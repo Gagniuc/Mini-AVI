@@ -12,9 +12,9 @@ Mini AVI and Oglinda were my attempt to make every disc behave like a small, sel
 
 | Period | Project history |
 |---|---|
-| 2003 | Initial idea and development of the player/disc-mastering pair |
-| 2004 | Surviving VB6 sources, interface resources, compiled player and installer package |
-| 2005 | Publication on a PC World România cover CD |
+| 2002 | Initial idea and development of the player/disc-mastering pair |
+| 2003 | Surviving VB6 sources, interface resources, compiled player and installer package |
+| 2004 | Publication on a PC World România cover CD |
 
 Mini AVI CD was distributed nationwide on the cover CD of the November 2004 issue of PC World Romania, whose monthly print run was approximately 20,000 copies at the time.
 
