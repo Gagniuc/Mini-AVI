@@ -46,7 +46,7 @@ Oglinda/
 The generated root folder is named `Oglinda` by default. To preserve the startup paths, `AUTORUN.INF` and the `Mini_AVI` directory must be placed directly in the root of the optical disc.
 
 <p align="center">
-  <img src="https://github.com/Gagniuc/Mini-AVI/blob/main/img/oglinda.png" alt="Original Mini AVI interface guide">
+  <img src="https://github.com/Gagniuc/Mini-AVI/blob/main/img/oglinda.gif" alt="Original Mini AVI interface guide">
 </p>
 
 Oglinda does not merely copy the selected movie. It also performs the following preparation:
