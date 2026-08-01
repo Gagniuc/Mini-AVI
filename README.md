@@ -202,20 +202,7 @@ The parser extracts the two braced values and converts `|-` into a line break. I
 
 ## Oglinda workflow
 
-The mastering program validates that a title, icon, movie and subtitle have all been selected. It creates `Mini_AVI` and `Mini_AVI\FilmAVI`, writes the two control files, and then assembles the payload.
-
-Large movie files are copied manually in 1,024-byte binary chunks. During the copy, the program repeatedly compares the source size with the destination size and updates a graphical percentage bar. A second bar tracks the six principal package-generation stages. This implementation made the interface remain responsive through `DoEvents` while a CD-sized or DVD-sized movie was being copied.
-
-The destination directory must not already exist. If an old `Oglinda` tree is present, the original program stops and asks the user to delete it or choose another location rather than merging with existing files.
-
-<details>
-<summary><strong>Original 2004 Oglinda help screen</strong></summary>
-
-<p align="center">
-  <img src="img/oglinda-help.png" alt="Original Oglinda help screen" width="760">
-</p>
-
-</details>
+The mastering program validates that a title, icon, movie and subtitle have all been selected. It creates `Mini_AVI` and `Mini_AVI\FilmAVI`, writes the two control files, and then assembles the payload. Large movie files are copied manually in 1,024-byte binary chunks. During the copy, the program repeatedly compares the source size with the destination size and updates a graphical percentage bar. A second bar tracks the six principal package-generation stages. This implementation made the interface remain responsive through `DoEvents` while a CD-sized or DVD-sized movie was being copied. The destination directory must not already exist. If an old `Oglinda` tree is present, the original program stops and asks the user to delete it or choose another location rather than merging with existing files.
 
 ## Source structure
 
