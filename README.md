@@ -1,10 +1,14 @@
 # Mini AVI & Oglinda
 
 <p align="center">
-  <img src="https://github.com/Gagniuc/Mini-AVI/blob/main/img/screen.png" alt="Original Mini AVI interface guide" width="720">
+  <img src="https://github.com/Gagniuc/Mini-AVI/blob/main/img/gpt%20(II).png" alt="Original Mini AVI interface guide">
 </p>
 
 **Mini AVI** and **Oglinda** form a two-part Visual Basic 6 project created for the way personal movie collections were used in the early 2000s. Mini AVI is the player. Oglinda is the companion mastering tool that prepares a self-contained movie disc around it.
+
+<p align="center">
+  <img src="https://github.com/Gagniuc/Mini-AVI/blob/main/img/screen.png" alt="Original Mini AVI interface guide">
+</p>
 
 The idea was simple: instead of writing a loose `.avi` file to a CD or DVD and asking the user to locate it manually, each disc could carry its own player, title, icon, subtitle, startup settings and `AUTORUN.INF`. Once the generated structure was written to the optical disc, inserting it into a Windows PC could start Mini AVI automatically and begin playback, optionally in full-screen mode.
 
