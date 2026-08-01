@@ -54,6 +54,11 @@ The programs were designed to work in tandem. Oglinda asks for the film title, C
 
 A completed package has the following structure:
 
+<p align="center">
+  <img src="https://github.com/Gagniuc/Mini-AVI/blob/main/img/oglinda.png" alt="Original Mini AVI interface guide">
+</p>
+
+
 ```text
 Oglinda/
 ├── AUTORUN.INF
