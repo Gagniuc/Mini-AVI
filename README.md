@@ -1,7 +1,7 @@
 # Mini AVI & Oglinda
 
 <p align="center">
-  <img src="img/miniavi-interface.png" alt="Original Mini AVI interface guide" width="720">
+  <img src="https://github.com/Gagniuc/Mini-AVI/blob/main/img/screen.png" alt="Original Mini AVI interface guide" width="720">
 </p>
 
 **Mini AVI** and **Oglinda** form a two-part Visual Basic 6 project created for the way personal movie collections were used in the early 2000s. Mini AVI is the player. Oglinda is the companion mastering tool that prepares a self-contained movie disc around it.
@@ -34,7 +34,7 @@ This led to a package built around two modules: Mini AVI, the movie player, and 
 
 Mini AVI CD was later included on the PC World Romania cover CD issued in November 2004, giving the project national distribution through one of the country’s best-known computer magazines of that period.
 
-<p align="center"> <img src="img/pcworld_november_2004_cd.jpg" width="70%" alt="PC World Romania cover CD, November 2004"> </p>
+<p align="center"> <img src="https://github.com/Gagniuc/Mini-AVI/blob/main/img/cd.jpg" width="70%" alt="PC World Romania cover CD, November 2004"> </p>
 
 While developing the player, I also experimented with adding software VU meters. At the time, Winamp was, in my view, the most impressive media player ever created, and its animated audio meters were particularly fascinating. They seemed to require a deep understanding of how the sound card worked and how a program could obtain the live audio signal being played.
 
@@ -187,7 +187,7 @@ The destination directory must not already exist. If an old `Oglinda` tree is pr
 ## Source structure
 
 ```text
-Paul-Media Q/
+Paul-Media/
 ├── Paul-Media.vbp                 # Mini AVI player project
 ├── Fereastra-Centrala.frm/.frx    # Main skinned interface and player logic
 ├── Intro.frm/.frx                 # Startup loader for MiniAVI.khz
