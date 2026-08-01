@@ -24,7 +24,7 @@ This led to a package built around two modules: Mini AVI, the movie player, and 
 
 Mini AVI CD was later included on the PC World Romania cover CD issued in November 2004, giving the project national distribution through one of the country’s best-known computer magazines of that period.
 
-<p align="center"> <img src="https://github.com/Gagniuc/Mini-AVI/blob/main/img/cd.jpg" width="70%" alt="PC World Romania cover CD, November 2004"> </p>
+<p align="center"> <img src="https://github.com/Gagniuc/Mini-AVI/blob/main/img/gpt%20(IV).png" alt="PC World Romania cover CD, November 2004"> </p>
 
 While developing the player, I also experimented with adding software VU meters. At the time, Winamp was, in my view, the most impressive media player ever created, and its animated audio meters were particularly fascinating. They seemed to require a deep understanding of how the sound card worked and how a program could obtain the live audio signal being played.
 
