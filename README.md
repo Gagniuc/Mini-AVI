@@ -1,6 +1,6 @@
 # Mini AVI & Oglinda (2004)
 
-<img align="right" src="https://github.com/Gagniuc/Mini-AVI/blob/main/img/mini%20(I).gif" alt="Original Mini AVI interface guide">
+<img align="right" src="https://github.com/Gagniuc/Mini-AVI/blob/main/img/screen%20(II).png" alt="Original Mini AVI interface guide">
 
 **Mini AVI** and **Oglinda** form a two-part Visual Basic 6 project created for the way personal movie collections were used in the early 2000s. Mini AVI is the player. Oglinda is the companion mastering tool that prepares a self-contained movie disc around it. The idea was simple: instead of writing a loose `.avi` file to a CD or DVD and asking the user to locate it manually, each disc could carry its own player, title, icon, subtitle, startup settings and `AUTORUN.INF`. Once the generated structure was written to the optical disc, inserting it into a Windows PC could start Mini AVI automatically and begin playback, optionally in full-screen mode. This is not a DVD-Video authoring program and it does not create an ISO image or burn a disc by itself. Oglinda creates the complete directory tree, the “matriță”, that must then be copied unchanged to the root of a CD-R or DVD-R using separate disc-writing software.
 
@@ -297,6 +297,8 @@ When automatic launch is unavailable, the generated disc can still be opened man
 `mBFF.bas` identifies itself as derived from the 2002 “Bobo System Treeview Thievery” work by MrBobo / PSST Software and retains that attribution in its source header. The archive also contains Microsoft Visual Basic 6 runtime and deployment files used by the original installer. These binaries are preserved here as historical project material; their redistribution terms should be considered separately from the author's own source code.
 
 ## Publication and archival value
+
+<img align="right" src="https://github.com/Gagniuc/Mini-AVI/blob/main/img/mini%20(I).gif" alt="Original Mini AVI interface guide">
 
 Mini AVI and Oglinda document a specific period of personal computing: optical media, AVI collections, system codecs, magazine cover CDs, `AUTORUN.INF`, custom-skinned VB6 interfaces and software distributed together with its runtime. The project is preserved not as a replacement for a modern media player, but as a complete example of how a self-starting movie disc was designed and packaged at the beginning of the 2000s.
 
