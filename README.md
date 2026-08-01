@@ -108,7 +108,6 @@ Its fields are positional rather than named:
 At startup, `Intro.frm` looks for `MiniAVI.khz` beside the executable. When the file is present, it constructs the movie path relative to `App.Path`, transfers the title and screen mode to the main form, and opens the film automatically. Without this file, Mini AVI starts as a normal standalone player and allows the user to choose a video manually.
 
 
-
 ## The `MiniAVI.khz` Configuration File
 
 `MiniAVI.khz` is the configuration file that connects the two main components of the project: **Oglinda**, which prepares the movie-disc structure, and **Mini AVI**, which plays the movie.
@@ -165,11 +164,7 @@ Oglinda
 
 ### Purpose
 
-The `MiniAVI.khz` file acts as a simple communication contract between Oglinda and Mini AVI.
-
-This mechanism allowed the same compiled Mini AVI executable to be reused across many different movie collections. Each CD or DVD required only its own media files and a corresponding `MiniAVI.khz` configuration.
-
-The application-specific extension also kept the configuration visually separate from ordinary text, subtitle and multimedia files, while preserving a lightweight format that could be generated and parsed easily in Visual Basic 6.
+The `MiniAVI.khz` file acts as a simple communication contract between Oglinda and Mini AVI. This mechanism allowed the same compiled Mini AVI executable to be reused across many different movie collections. Each CD or DVD required only its own media files and a corresponding `MiniAVI.khz` configuration. The application-specific extension also kept the configuration visually separate from ordinary text, subtitle and multimedia files, while preserving a lightweight format that could be generated and parsed easily in Visual Basic 6.
 
 ## Mini AVI player
 
@@ -215,9 +210,7 @@ The original help screen documents the most important full-screen and pause shor
 
 ## Subtitle handling
 
-Oglinda accepts `.sub`, `.txt` or `.srt` as the selected subtitle input, but it always copies the result with a `.sub` extension and with the same base name as the movie. Mini AVI automatically looks for this neighboring file.
-
-The player contains code for loading the entire subtitle file and parsing lines in a MicroDVD-like form:
+Oglinda accepts `.sub`, `.txt` or `.srt` as the selected subtitle input, but it always copies the result with a `.sub` extension and with the same base name as the movie. Mini AVI automatically looks for this neighboring file. The player contains code for loading the entire subtitle file and parsing lines in a MicroDVD-like form:
 
 ```text
 {start}{end}Subtitle text|-Second line
@@ -265,9 +258,7 @@ Paul-Media/
     └── Package/                    # VB6 Package and Deployment Wizard output
 ```
 
-The `.frm` files contain the form layout and event code. Their corresponding `.frx` files hold the original icons, backgrounds, buttons and help illustrations. `.bas` files contain shared modules, while `Deschide.cls` wraps native Windows common-dialog APIs.
-
-Workspace files such as `.vbw`, source-control metadata such as `MSSCCPRJ.SCC`, and the `.PDM` deployment file are historical development artifacts and are not required by the application logic.
+The `.frm` files contain the form layout and event code. Their corresponding `.frx` files hold the original icons, backgrounds, buttons and help illustrations. `.bas` files contain shared modules, while `Deschide.cls` wraps native Windows common-dialog APIs. Workspace files such as `.vbw`, source-control metadata such as `MSSCCPRJ.SCC`, and the `.PDM` deployment file are historical development artifacts and are not required by the application logic.
 
 ## Building the projects
 
