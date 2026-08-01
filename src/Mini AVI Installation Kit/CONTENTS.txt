@@ -1,0 +1,9 @@
+BUILD_INSTALLER.bat
+CONTENTS.txt
+INSTALL_NOW.cmd
+MiniAVI_Setup.iss
+README.txt
+SHA256SUMS.txt
+UNINSTALL_NOW.cmd
+payload/Mini_AVI.exe
+payload/msvbvm60.dll
