@@ -271,7 +271,7 @@ When automatic launch is unavailable, the generated disc can still be opened man
 
 ## Publication and archival value
 
-<img align="right" src="https://github.com/Gagniuc/Mini-AVI/blob/main/img/mini%20(I).gif" alt="Original Mini AVI interface guide">
+<img align="right" src="https://github.com/Gagniuc/Mini-AVI/blob/main/img/mini%20(I).gif" width="272" height="116" alt="Mini AVI 2.1 player interface">
 
 Mini AVI and Oglinda document a specific period of personal computing: optical media, AVI collections, system codecs, magazine cover CDs, `AUTORUN.INF`, custom-skinned VB6 interfaces and software distributed together with its runtime. The project is preserved not as a replacement for a modern media player, but as a complete example of how a self-starting movie disc was designed and packaged at the beginning of the 2000s.
 
