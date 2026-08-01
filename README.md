@@ -12,7 +12,7 @@ I began this project around 2002, when films obtained or exchanged online were c
 
 Mini AVI CD began as a personal attempt to build a media player in my own style, at a time when AVI movies were commonly collected on CDs and DVDs. The project soon became more than a player. There was also a practical need to prepare complete movie discs that could be stored, exchanged and launched directly from the optical medium. This led to a package built around two modules: Mini AVI, the movie player, and Oglinda, the companion utility used to prepare the contents of a movie CD. The two programs were designed to work together and were presented as a single system for creating self-contained AVI movie collections. Mini AVI CD was later included on the PC World Romania cover CD issued in November 2004, giving the project national distribution through one of the country’s best known computer magazines of that period.
 
-<p align="center"> <img src="https://github.com/Gagniuc/Mini-AVI/blob/main/img/gpt%20(IV).png" alt="PC World Romania cover CD, November 2004"> </p>
+<p align="center"> <img src="https://github.com/Gagniuc/Mini-AVI/blob/main/img/gpt%20(VI).png" alt="PC World Romania cover CD, November 2004"> </p>
 
 While developing the player, I also experimented with adding software VU meters. At the time, Winamp was, in my view, the most impressive media player ever created, and its animated audio meters were particularly fascinating. They seemed to require a deep understanding of how the sound card worked and how a program could obtain the live audio signal being played. This interest also came from my earlier experience with electronics. During the 1990s, I had built LED-based VU meters, so reproducing the same idea inside a software player felt like a natural continuation of that work. However, I was not able to complete this feature in Mini AVI. Around 2001-2003, the implementation of Winamp-style visualizers still appeared almost mysterious. Detailed technical explanations were difficult to find, and little public information existed about how such players intercepted, measured and transformed the audio stream in real time. For me, the VU meter remained one of the unresolved technical ambitions of the project.
 
@@ -278,5 +278,5 @@ Mini AVI and Oglinda document a specific period of personal computing: optical m
 <hr>
 
 <p align="center">
-  <img src="https://github.com/Gagniuc/Mini-AVI/blob/main/img/gpt%20(III).png" alt="Original Mini AVI interface guide">
+  <img src="https://github.com/Gagniuc/Mini-AVI/blob/main/img/gpt%20(V).png" alt="Original Mini AVI interface guide">
 </p>
