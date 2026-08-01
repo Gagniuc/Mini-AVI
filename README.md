@@ -1,4 +1,4 @@
-# Mini AVI & Oglinda
+# Mini AVI & Oglinda (2004)
 
 <img align="right" src="https://github.com/Gagniuc/Mini-AVI/blob/main/img/screen.png" alt="Original Mini AVI interface guide">
 
