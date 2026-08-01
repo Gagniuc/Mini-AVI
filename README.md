@@ -14,9 +14,7 @@ I began this project around 2003, when films obtained or exchanged online were c
 | 2003 | Surviving VB6 sources, interface resources, compiled player and installer package |
 | 2004 | Publication on a PC World România cover CD |
 
-Mini AVI CD was distributed nationwide on the cover CD of the November 2004 issue of PC World Romania, whose monthly print run was approximately 20,000 copies at the time.
-
-The archive retains several names from development. `Paul-Media` is the internal VB6 project title, **Mini AVI** is the player shown to the user, and **Mini AVI – CD Autostart / Oglinda** is the disc-mastering application.
+Mini AVI CD was distributed nationwide on the cover CD of the November 2004 issue of PC World Romania, whose monthly print run was approximately 20,000 copies at the time. The archive retains several names from development. `Paul-Media` is the internal VB6 project title, **Mini AVI** is the player shown to the user, and **Mini AVI – CD Autostart / Oglinda** is the disc-mastering application.
 
 ## Origins of Mini AVI CD
 
